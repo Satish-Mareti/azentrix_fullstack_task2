@@ -1,0 +1,4 @@
+Model,Mean_F1
+Logistic Regression,0.8185585940061644
+Random Forest,0.8199957190423339
+Gradient Boosting,0.8091550698653917

@@ -1,0 +1,4 @@
+Model,CV Score,Accuracy
+Logistic Regression,0.7109756097560975,0.785
+Random Forest,0.7073170731707317,0.69
+Gradient Boosting,0.7268292682926829,0.725
